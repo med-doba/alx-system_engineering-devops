@@ -1,2 +1,2 @@
 #!/bin/bash
-adsdasd
+mv [A-Z]* /tmp/u
